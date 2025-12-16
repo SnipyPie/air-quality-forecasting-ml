@@ -12,4 +12,4 @@
 - Include meteorological features (temperature, humidity, wind)
 - Extend forecasting horizon beyond 1 hour
 - Multi-city deployment
-- Web-based dashboard using Streamlit or FastAPI
+
