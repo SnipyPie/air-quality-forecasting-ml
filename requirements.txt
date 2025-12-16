@@ -1,0 +1,15 @@
+## Tech Stack
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+- OpenWeather API
+- Jupyter Notebook
+
+---
+
+## Future Improvements
+- Include meteorological features (temperature, humidity, wind)
+- Extend forecasting horizon beyond 1 hour
+- Multi-city deployment
+- Web-based dashboard using Streamlit or FastAPI
