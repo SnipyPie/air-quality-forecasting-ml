@@ -59,10 +59,10 @@ An advanced ensemble model that iteratively corrects prediction errors and achie
 ---
 
 ## Model Performance Comparison (1-Hour Forecast)
-
-| Model             | MAE        | RMSE       | R²         |
-| Linear Regression | 0.8191     | 1.1634     | -15.2845   |
-| Random Forest     | ~0.05–0.08 | ~0.14–0.20 | ~0.70      |
+| Model | MAE | RMSE | R² |
+|------|-----|------|----|
+| Linear Regression | 0.8191 | 1.1634 | -15.2845 |
+| Random Forest | ~0.05–0.08 | ~0.14–0.20 | ~0.70 |
 | Gradient Boosting | **0.0698** | **0.1515** | **0.7239** |
 
 **Conclusion:**  
